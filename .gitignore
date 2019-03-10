@@ -1,0 +1,8 @@
+# MAC OS
+.DS_Store
+# pycache
+*.pyc
+# generated logs
+*.log
+# generated pid files
+*.pid
